@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">A master's student from Italy</h3>
+<h3 align="center">A graduate master's student from Italy</h3>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="300" align="right">
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 **Reinforcement Learning** for Autonomous Systems
 
 - 📫 How to reach me **simone.dario10@gmail.com**
 
